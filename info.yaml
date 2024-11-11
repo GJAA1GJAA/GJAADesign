@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     413919675346023425       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     414235896240527361       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "GJAA Design"      # Project title
   author:       "Guadalupe de Jesus Avelar Anguiano"      # Your name
   discord:      "guadalupeavelar"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "To be determine"      # One line description of what your project does
+  description:  "A 2 bits adder"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -19,20 +19,20 @@ pinout:
   ui[1]: "IN1"
   ui[2]: "IN2"
   ui[3]: "IN3"
-  ui[4]: "IN4"
-  ui[5]: "IN5"
-  ui[6]: "IN6"
-  ui[7]: "IN7"
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: "OUT0"
   uo[1]: "OUT1"
   uo[2]: "OUT2"
   uo[3]: "OUT3"
-  uo[4]: "OUT4"
-  uo[5]: "OUT5"
-  uo[6]: "OUT6"
-  uo[7]: "OUT7"
+  uo[4]: ""
+  uo[5]: ""
+  uo[6]: ""
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
